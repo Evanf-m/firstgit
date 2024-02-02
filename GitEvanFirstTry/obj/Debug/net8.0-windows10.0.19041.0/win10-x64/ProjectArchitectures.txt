@@ -1,0 +1,1 @@
+C:\Users\finth\source\repos\GitEvanFirstTry\GitEvanFirstTry\GitEvanFirstTry.csproj;x64
